@@ -37,18 +37,18 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
 <h2 id="elements">Education</h2>
 <ul>
 	<li><b>PhD in Statistical Sciences<b> (11/2024 - Present)
-    [cite_start]*University of Padova, Italy* </li>
+    [cite_start]<i>University of Padova, Italy<i> </li>
 	<li><b>Master's degree in Statistical Sciences<b> (09/2022 - 09/2024)
-    *University of Padova, Italy* - *110 e lode (with honors)*</li>
+    <i>University of Padova, Italy<i> - 110 e lode (with honors)</li>
     <li><b>Bachelor's degree in Statistics for Economic and Business<b> (09/2019 - 07/2022)
-    *University of Padova, Italy* - *110 e lode (with honors)*</li>
+    <i>University of Padova, Italy<i> - 110 e lode (with honors)</li>
 </ul>
 
 <!-- Awards -->
 <h2 id="elements">Awards</h2>
 <ul>
-	<li>Second place for <b>"Best Master's thesis in statistical disciplines in memory of Prof. Agostino Tarsitano"<b> - *Società Italiana di Statistica (2025)*</li>
-	<li><b>"Mille e una Lode" Excellence Grant<b> - *University of Padova (2022)*: Scholarship for outstanding academic performance (top 1000 students)</li>
+	<li>Second place for <b>"Best Master's thesis in statistical disciplines in memory of Prof. Agostino Tarsitano"<b> - <i>Società Italiana di Statistica (2025)<i></li>
+	<li><b>"Mille e una Lode" Excellence Grant<b> - <i>University of Padova (2022)<i>: Scholarship for outstanding academic performance (top 1000 students)</li>
 </ul>
 
 <!-- Technical Skills -->
