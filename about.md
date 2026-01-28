@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: post
 title: About Me
 description: Education and Research Interests
-show_in_nav: true
+nav-menu: true
+image: assets/images/foto_laurea.jpg
 order: 1
 ---
-![Margherita Palomba](assets/images/foto_laurea.jpg){: width="300"}
 
 ## Bio
 [cite_start]Sono una dottoranda in Scienze Statistiche presso l'**Università di Padova**[cite: 3, 14]. [cite_start]I miei interessi di ricerca si concentrano principalmente sulla modellazione e previsione delle serie storiche, tecniche Bootstrap, processi stocastici e inferenza statistica[cite: 10].
