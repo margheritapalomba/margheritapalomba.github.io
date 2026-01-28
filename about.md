@@ -21,15 +21,18 @@ order: 1
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 40px;">
   
   <div style="flex: 2; min-width: 300px;">
-   I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b>.
+   <p>I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b>.<p/>
 
-My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.
+<p>My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.</p>
+
+<p>I currently serve as a <b>Teaching Assistant</b> for the course <i>"Statistical Models for Economic Data"</i> and as an <b>Academic Tutor</b> for students in Statistics, Biotechnology, and Social Sciences.</p>
 
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 300%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 100%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   </div>
+</div>
 
 <hr class="major" />
 
