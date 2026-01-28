@@ -31,6 +31,7 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
     <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 300%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   </div>
 
+<hr class="major" />
 
 <!-- Research Interests -->
 <h2 id="research">Research Interests</h2>
