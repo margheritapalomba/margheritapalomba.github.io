@@ -21,9 +21,9 @@ order: 1
 
 <!-- Content -->
 <h2 id="content">Bio</h2>
-I am a PhD student in <b>Statistical Sciences</b> at the </b>University of Padova</b>.
+I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b>.
 
-My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in </b>Econometrics</b> and Social Sciences.
+My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.
 
 <!-- Research Interests -->
 <h2 id="elements">Research Interests</h2>
