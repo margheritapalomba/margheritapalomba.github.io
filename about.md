@@ -37,7 +37,7 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
 <h2 id="education">Education</h2>
 <ul>
 	<li><b>PhD in Statistical Sciences</b> (11/2024 - Present)
-    [cite_start]<i>University of Padova, Italy</i> </li>
+    <i>University of Padova, Italy</i> </li>
 	<li><b>Master's degree in Statistical Sciences</b> (09/2022 - 09/2024)
     <i>University of Padova, Italy</i> - 110 e lode (with honors)</li>
     <li><b>Bachelor's degree in Statistics for Economic and Business</b> (09/2019 - 07/2022)
