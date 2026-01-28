@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, I am Margherita'
 description: 'PhD Student in Statistical Sciences'
-image: assets/images/Dipartimento.jpg
+image: assets/images/mare_bilbao.jpg
 author: null
 show_tile: false
 ---
