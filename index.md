@@ -5,7 +5,7 @@ landing-title: 'Hi, I am Margherita'
 description: 'PhD Student in Statistical Sciences'
 image: null
 author: null
-show_tile: true
+show_tile: false
 ---
 
 I am a PhD student in **Statistical Sciences** at the **University of Padova**.
