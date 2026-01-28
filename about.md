@@ -26,7 +26,7 @@ I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova
 My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.
 
 <!-- Research Interests -->
-<h2 id="elements">Research Interests</h2>
+<h2 id="research">Research Interests</h2>
 <ul>
 	<li><b>Theory & Methods:</b> Time series modeling and forecasting, Bootstrap techniques, Stochastic processes, Statistical inference, Asymptotic theory.</li>
 	<li><b>Applications:</b> Econometrics, State-space models, Social sciences.</li>
@@ -34,7 +34,7 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
 
 
 <!-- Education -->
-<h2 id="elements">Education</h2>
+<h2 id="education">Education</h2>
 <ul>
 	<li><b>PhD in Statistical Sciences</b> (11/2024 - Present)
     [cite_start]<i>University of Padova, Italy<i> </li>
@@ -45,14 +45,14 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
 </ul>
 
 <!-- Awards -->
-<h2 id="elements">Awards</h2>
+<h2 id="awards">Awards</h2>
 <ul>
 	<li>Second place for <b>"Best Master's thesis in statistical disciplines in memory of Prof. Agostino Tarsitano"</b> - <i>Società Italiana di Statistica (2025)<i></li>
 	<li><b>"Mille e una Lode" Excellence Grant</b> - <i>University of Padova (2022)<i>: Scholarship for outstanding academic performance (top 1000 students)</li>
 </ul>
 
 <!-- Technical Skills -->
-<h2 id="elements">Technical Skills</h2>
+<h2 id="tech">Technical Skills</h2>
 <ul>
 	<li><b>Advanced:</b> R/RStudio, LaTeX, Microsoft Office Suite</li>
 	<li><b>Intermediate:</b> Python, SAS</li>
