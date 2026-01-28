@@ -18,7 +18,6 @@ order: 1
 		</header>
 		
 <!-- Content -->
-<h2 id="content">Bio</h2>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 40px;">
   
   <div style="flex: 2; min-width: 300px;">
@@ -29,7 +28,7 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 200%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 300%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   </div>
 
 
