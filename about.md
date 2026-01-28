@@ -17,7 +17,7 @@ order: 1
 			<h1>About me</h1>
 		</header>
 		
-![Margherita Palomba](assets/images/foto_laurea.jpg){: width="300"}
+![Margherita Palomba](assets/images/foto_laurea.jpg){: width="50"}
 
 <!-- Content -->
 <h2 id="content">Bio</h2>
