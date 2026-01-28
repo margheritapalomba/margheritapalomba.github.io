@@ -1,11 +1,15 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, I am Margherita'
+description: 'PhD Student in Statistical Sciences'
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am a PhD student in **Statistical Sciences** at the **University of Padova**.
+
+My research interests focus on **Time Series modeling and forecasting**, **Bootstrap techniques**, and **Stochastic processes**, with applications in **Econometrics** and Social Sciences.
+
+On this website, you can find my academic CV and my list of publications.
