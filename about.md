@@ -17,8 +17,6 @@ order: 1
 			<h1>About me</h1>
 		</header>
 		
-![Margherita Palomba](assets/images/foto_laurea.jpg){: width="50"}
-
 <!-- Content -->
 <h2 id="content">Bio</h2>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 40px;">
@@ -31,10 +29,9 @@ My research interests focus on <b>Time Series modeling and forecasting, Bootstra
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 100%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="assets/images/foto_laurea.jpg" alt="Margherita Palomba" style="width: 200%; max-width: 300px; border-radius: 5px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
   </div>
 
-<hr />
 
 <!-- Research Interests -->
 <h2 id="research">Research Interests</h2>
