@@ -1,10 +1,10 @@
 # site settings
 title: Margherita Palomba
-subtitle: by HTML5 UP
+subtitle: 
 email: margherita.palomba@phd.unipd.it
 description: PhD Student in Statistical Sciences | University of Padova
-baseurl: "https://margheritapalomba.github.io" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog
+url: "https://margheritapalomba.github.io" # the base hostname & protocol for your site
 author: Margherita Palomba
 street_address: Via Cesare Battisti, 241
 city: Padova
