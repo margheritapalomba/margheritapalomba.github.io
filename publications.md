@@ -25,7 +25,7 @@ order: 2
 	<li>Palomba, M., Bisaglia, L., Gerolimetto, M. (2025).<b> Combining Bootstrap Estimators to Improve Long-Memory Parameter Estimation</b>
     <i>Book of Short Papers - 3rd Italian Conference on Economic Statistics (ICES 2025), Enzo Albano Edizioni, 45-48</i>.</li>
   <li>Bisaglia, L., Gerolimetto, M., Palomba, M. (2025).<b> A new composite bootstrap approach for estimating the long-memory parameter</b> 
-    <i>Statistics for Innovation III: SIS 2025, Short Papers, Springer Nature Switzerland, 219-224</i> </li>
+    <i>Statistics for Innovation III: SIS 2025, Short Papers, Springer Nature Switzerland, 219-224.</i> </li>
 </ol>
 
 <!-- Theses -->
