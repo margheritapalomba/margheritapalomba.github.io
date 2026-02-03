@@ -1,6 +1,61 @@
 <section id="contact">
     <div class="inner">
         
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; text-align: center;">
+
+            <div style="flex: 1; min-width: 200px;">
+                <span class="icon alt fa-home" style="margin-bottom: 15px;"></span>
+                <h3>Address</h3>
+                <span>Via Cesare Battisti 241<br />35121 Padova (PD)</span>
+            </div>
+
+            <div style="flex: 1; min-width: 200px;">
+                <span class="icon alt fa-envelope" style="margin-bottom: 15px;"></span>
+                <h3>Email</h3>
+                <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </div>
+
+            <div style="flex: 1; min-width: 200px;">
+               <ul class="icons">
+                {% for key_value in site.socials %}
+                    {% if key_value[1] %}
+                        <li>
+                            <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+                                <span class="label">{{ key_value[0] }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<footer id="footer" style="padding-top: 0;">
+    <div class="inner">
+        <ul class="copyright">
+            <li>&copy; Margherita Palomba</li>
+            <li>Design: HTML5 UP</li>
+        </ul>
+    </div>
+</footer>
+
+</div>
+
+<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+
+
+<section id="contact">
+    <div class="inner">
+        
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; text-align: center; margin-bottom: 40px;">
             
             <div class="contact-method" style="border: none; padding: 0; margin: 0;">
@@ -21,7 +76,6 @@
         </div>
 
         <div style="text-align: center; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 30px;">
-            <h3>Follow Me</h3>
             <ul class="icons">
                 {% for key_value in site.socials %}
                     {% if key_value[1] %}
