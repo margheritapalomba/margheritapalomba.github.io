@@ -22,10 +22,10 @@ order: 2
 <ol>
 	<li>Bisaglia, L., Gerolimetto, M., Palomba, M. (2025).<b> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5597291" target="_blank">A new Combined Bootstrap Method for Long-Memory Time Series</a></b>.
     <i>Working Papers 2025: 19, Department of Economics, University of Venice "Ca' Foscari".</i> </li>
-	<li>Palomba, M., Bisaglia, L., Gerolimetto, M. (2025).<b> Combining Bootstrap Estimators to Improve Long-Memory Parameter Estimation</b>
-    <i>Book of Short Papers - 3rd Italian Conference on Economic Statistics (ICES 2025), Enzo Albano Edizioni, 45-48</i>.</li>
-  <li>Bisaglia, L., Gerolimetto, M., Palomba, M. (2025).<b> A new composite bootstrap approach for estimating the long-memory parameter</b> 
-    <i>Statistics for Innovation III: SIS 2025, Short Papers, Springer Nature Switzerland, 219-224.</i> </li>
+	<li>Palomba, M., Bisaglia, L., Gerolimetto, M. (2025).<b> <a href="https://link.springer.com/chapter/10.1007/978-3-031-96033-8_24" target="_blank">Combining Bootstrap Estimators to Improve Long-Memory Parameter Estimation</a></b>
+    <i>Scientific Meeting of the Italian Statistical Society, Springer Nature Switzerland, 138-144</i>.</li>
+  <li>Bisaglia, L., Gerolimetto, M., Palomba, M. (2025).<b> <a href="https://iris.univr.it/bitstream/11562/1165049/1/Castellano%20et%20al.%20-%20ICES%202025%20-%203rd%20Italian%20Conference%20on%20Economic%20Sta.pdf#page=58" target="_blank">A new composite bootstrap approach for estimating the long-memory parameter</a></b> 
+    <i>Book of Short Papers-3rd Italian Conference on Economic Statistics (ICES 2025) "Sustainability, Innovation and Digitalization: Statistical Measurement for Economic Analysis". Enzo Albano-Edizioni, 45-48.</i> </li>
 </ol>
 
 <!-- Theses -->
