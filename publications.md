@@ -31,8 +31,8 @@ order: 2
 <!-- Theses -->
 <h2 id="education">Theses</h2>
 <ol>
-	<li>Palomba, M. (2024). <b>Bootstrap ibrido e combinazioni bootstrap per la stima del parametro di memoria lunga</b>.
+	<li>Palomba, M. (2024).<b> <a href="https://thesis.unipd.it/handle/20.500.12608/71215" target="_blank">Bootstrap ibrido e combinazioni bootstrap per la stima del parametro di memoria lunga</a></b>.
     <i>Master's thesis, University of Padova.</i> </li>
-	<li>Palomba, M. (2024). <b>Combinazione di previsioni: un confronto tra approcci differenti</b>.
+	<li>Palomba, M. (2024).<b> <a href="https://thesis.unipd.it/handle/20.500.12608/32938" target="_blank">Combinazione di previsioni: un confronto tra approcci differenti</a></b>.
     <i>Bachelor's thesis, University of Padova.</i> </li>
 </ol>
