@@ -25,7 +25,7 @@ order: 1
 	  
 	  My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.<br />
 	  
-	  I currently serve as a <b>Teaching Assistant</b> for the course <i>"Statistical Models for Economic Data"</i> and as an <b>Academic Tutor</b> for students in Statistics, Biotechnology, and Social Sciences.
+	  I serve as a <b>Teaching Assistant</b> for the course <i>"Statistical Models for Economic Data"</i> and as an <b>Academic Tutor</b> for students in Statistics, Biotechnology, and Social Sciences at the University of Padova.
 
   </div>
 
