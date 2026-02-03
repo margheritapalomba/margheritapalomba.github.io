@@ -1,3 +1,21 @@
+<style>
+    .tiles article {
+        min-height: 250px !important; /* Altezza ridotta (il default era molto più alto) */
+        padding: 2em !important;      /* Meno spazio vuoto attorno al testo */
+    }
+    
+    /* Questo serve per assicurare che il testo rimanga centrato anche nel box più piccolo */
+    .tiles article > .image {
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    .tiles article > .image img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover; /* Assicura che la foto copra tutto senza deformarsi */
+    }
+</style>
 {% if 'posts' == site.tiles-source %}
     {% assign tiles = site.posts %}
 {% elsif 'pages' == site.tiles-source %}
