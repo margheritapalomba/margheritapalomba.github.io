@@ -1,65 +1,57 @@
 <section id="contact">
-	<div class="inner">
-		<section>
-			<div class="contact-method" style="text-align: center; border-left: none; padding-left: 0;">
-				<span class="icon alt fa-envelope"></span>
-				<h3>Email</h3>
-				<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-			</div>
-		</section>
-		<section>
-			<div class="contact-method" style="text-align: center; border-left: none; padding-left: 0;">
-				<span class="icon alt fa-home"></span>
-				<h3>Address</h3>
-				<span>
-				{% if site.street_address %}
-				    {{ site.street_address }}<br />
-				{% endif %}
-				{% if site.city %}
-				    {{ site.city }},
-				{% endif %}
-				{% if site.zip_code %}
-				    {{ site.zip_code }}<br />
-				{% endif %}
-				{% if site.country %}
-				    {{ site.country }}
-				{% endif %}
-				</span>
-			</div>
-		</section>
-	</div>
+    <div class="inner">
+        
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; text-align: center; margin-bottom: 40px;">
+            
+            <div class="contact-method" style="border: none; padding: 0; margin: 0;">
+                <span class="icon alt fa-envelope"></span>
+                <h3>Email</h3>
+                <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </div>
+
+            <div class="contact-method" style="border: none; padding: 0; margin: 0;">
+                <span class="icon alt fa-home"></span>
+                <h3>Address</h3>
+                <span>
+                    Department of Statistical Sciences<br />
+                    Via Cesare Battisti 241<br />
+                    35121 Padova (PD), Italy
+                </span>
+            </div>
+        </div>
+
+        <div style="text-align: center; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 30px;">
+            <h3>Follow Me</h3>
+            <ul class="icons">
+                {% for key_value in site.socials %}
+                    {% if key_value[1] %}
+                        <li>
+                            <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+                                <span class="label">{{ key_value[0] }}</span>
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+
+    </div>
 </section>
 
-<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% for key_value in site.socials %}
-					{% if key_value[1] %}
-						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<span class="label">{{ key_value[0] }}</span>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-
-			</ul>
-		</div>
-	</footer>
+<footer id="footer">
+    <div class="inner">
+        <ul class="copyright">
+            <li>&copy; Margherita Palomba</li>
+            <li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+        </ul>
+    </div>
+</footer>
 
 </div>
 
-<!-- Scripts -->
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
