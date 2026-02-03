@@ -20,7 +20,7 @@ order: 2
 <!-- Publications -->
 <h2 id="education">Publications</h2>
 <ol>
-	<li>Bisaglia, L., Gerolimetto, M., Palomba, M. (2025).<b> A new Combined Bootstrap Method for Long-Memory Time Series</b>.
+	<li>Bisaglia, L., Gerolimetto, M., Palomba, M. (2025).<b> [A new Combined Bootstrap Method for Long-Memory Time Series](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5597291)</b>.
     <i>Working Papers 2025: 19, Department of Economics, University of Venice "Ca' Foscari".</i> </li>
 	<li>Palomba, M., Bisaglia, L., Gerolimetto, M. (2025).<b> Combining Bootstrap Estimators to Improve Long-Memory Parameter Estimation</b>
     <i>Book of Short Papers - 3rd Italian Conference on Economic Statistics (ICES 2025), Enzo Albano Edizioni, 45-48</i>.</li>
