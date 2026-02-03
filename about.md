@@ -36,14 +36,6 @@ order: 1
 
 <hr class="major" />
 
-<!-- Research Interests -->
-<h2 id="research">Research Interests</h2>
-<ul>
-	<li><b>Theory & Methods:</b> Time series modeling and forecasting, Bootstrap techniques, Stochastic processes, Statistical inference, Asymptotic theory.</li>
-	<li><b>Applications:</b> Econometrics, State-space models, Social sciences.</li>
-</ul>
-
-
 <!-- Education -->
 <h2 id="education">Education</h2>
 <ul>
@@ -56,6 +48,14 @@ order: 1
     <li><b>Bachelor's degree in Statistics for Economic and Business</b> (09/2019 - 07/2022)
     <i>University of Padova, Italy</i> - 110 e lode (with honors)</li>
 </ul>
+
+<!-- Research Interests -->
+<h2 id="research">Research Interests</h2>
+<ul>
+	<li><b>Theory & Methods:</b> Time series modeling and forecasting, Bootstrap techniques, Stochastic processes, Statistical inference, Asymptotic theory.</li>
+	<li><b>Applications:</b> Econometrics, State-space models, Social sciences.</li>
+</ul>
+
 
 <!-- Awards -->
 <h2 id="awards">Awards</h2>
