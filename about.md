@@ -21,9 +21,9 @@ order: 1
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 40px;">
   
   <div style="flex: 2; min-width: 300px;">
-	  I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b>.
+	  I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b>.<br />
 	  
-	  My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.
+	  My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.<br />
 	  
 	  I currently serve as a <b>Teaching Assistant</b> for the course <i>"Statistical Models for Economic Data"</i> and as an <b>Academic Tutor</b> for students in Statistics, Biotechnology, and Social Sciences.
 
