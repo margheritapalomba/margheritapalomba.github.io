@@ -1,32 +1,36 @@
 <section id="contact">
     <div class="inner">
         
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; text-align: center;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; text-align: center; align-items: flex-start;">
 
             <div style="flex: 1; min-width: 200px;">
-                <span class="icon alt fa-home" style="margin-bottom: 15px;"></span>
+                <span class="icon alt fa-home" style="margin-bottom: 15px; display: block;"></span>
                 <h3>Address</h3>
-                <span>Via Cesare Battisti 241<br />35121 Padova (PD)</span>
+                <p style="font-size: 0.9em;">Via Cesare Battisti 241<br />35121 Padova (PD)</p>
             </div>
 
             <div style="flex: 1; min-width: 200px;">
-                <span class="icon alt fa-envelope" style="margin-bottom: 15px;"></span>
+                <span class="icon alt fa-envelope" style="margin-bottom: 15px; display: block;"></span>
                 <h3>Email</h3>
-                <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+                <a href="mailto:{{ site.email }}" style="border-bottom: none;">{{ site.email }}</a>
             </div>
 
-            <div style="flex: 1; min-width: 200px;">
-               <ul class="icons">
-                {% for key_value in site.socials %}
-                    {% if key_value[1] %}
-                        <li>
-                            <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-                                <span class="label">{{ key_value[0] }}</span>
-                            </a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
+            <div style="flex: 1; min-width: 200px; padding-top: 10px;">
+                <span class="icon alt fa-file-pdf-o" style="margin-bottom: 15px; display: block;"></span> 
+                <h3>Curriculum</h3>
+                <a href="assets/pdfs/cv.pdf" class="button fit small" target="_blank" style="margin-top: 5px;">Download CV</a>
+            </div>
+
+            <div style="flex: 1; min-width: 150px;">
+                <span class="icon alt fa-github" style="margin-bottom: 15px; display: block;"></span>
+                <h3>GitHub</h3>
+                <a href="https://github.com/margheritapalomba" target="_blank" style="border-bottom: none;">@margheritapalomba</a>
+            </div>
+
+            <div style="flex: 1; min-width: 150px;">
+                <span class="icon alt fa-linkedin" style="margin-bottom: 15px; display: block;"></span>
+                <h3>LinkedIn</h3>
+                <a href="https://www.linkedin.com/in/margherita-palomba-163715236/" target="_blank" style="border-bottom: none;">Margherita Palomba</a>
             </div>
 
         </div>
@@ -34,7 +38,7 @@
     </div>
 </section>
 
-<footer id="footer" style="padding-top: 0;">
+<footer id="footer" style="padding-top: 2em;">
     <div class="inner">
         <ul class="copyright">
             <li>&copy; Margherita Palomba</li>
@@ -51,4 +55,3 @@
 <script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
 <script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 <script src="{{ "assets/js/main.js" | absolute_url }}"></script>
-
