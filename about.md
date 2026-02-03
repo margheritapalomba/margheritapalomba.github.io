@@ -21,7 +21,7 @@ order: 1
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 40px;">
   
   <div style="flex: 2; min-width: 300px;">
-	  I am a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b>.<br />
+	  I am currently a PhD student in <b>Statistical Sciences</b> at the <b>University of Padova</b> and in <b>Economics: Tools of Economic Analysis</b> at the <b>UPV/EHU</b>.<br />
 	  
 	  My research interests focus on <b>Time Series modeling and forecasting, Bootstrap techniques</b>, and Stochastic processes, with applications in <b>Econometrics</b> and Social Sciences.<br />
 	  
@@ -49,6 +49,8 @@ order: 1
 <ul>
 	<li><b>PhD in Statistical Sciences</b> (11/2024 - Present)
     <i>University of Padova, Italy</i> </li>
+	<li><b>PhD in Economics: Tools of Economic Analysis</b> (01/2026 - Present)
+    <i>UPV/EHU, Spain</i> </li>
 	<li><b>Master's degree in Statistical Sciences</b> (09/2022 - 09/2024)
     <i>University of Padova, Italy</i> - 110 e lode (with honors)</li>
     <li><b>Bachelor's degree in Statistics for Economic and Business</b> (09/2019 - 07/2022)
